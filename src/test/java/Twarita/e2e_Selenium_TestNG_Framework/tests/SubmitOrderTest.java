@@ -60,7 +60,7 @@ public class SubmitOrderTest extends BaseTests{
 	public Object[][] getData(){
 		return new Object[][] {
 				{"testT@mail.com", "Password1!", "Zara Coat", "India"}, 
-				{"testTC@mail.com", "Password1!", "Addas", "Australia"}
+				{"testTC@mail.com", "Password1!", "Adidas", "Australia"}
 			};
 		}
 	
